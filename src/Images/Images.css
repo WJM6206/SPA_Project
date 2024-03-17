@@ -1,0 +1,25 @@
+
+.battle-logo img {
+    height: 400px;
+    width: 400px;
+    vertical-align: middle; 
+}
+
+.phase-logo img {
+    height: 300px;
+    width: 300px;
+    vertical-align: middle; 
+}
+
+.phase-rules img {
+    height: 400px;
+    width: 300px;
+    vertical-align: middle;
+    padding-bottom: 150px;
+}
+
+.shutbox-logo img {
+    height: 400px;
+    width: 400px;
+    vertical-align: middle;
+}
