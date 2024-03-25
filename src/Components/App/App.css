@@ -4,14 +4,14 @@
 }
 
 .App-logo {
-  height: 100px;
+  height: 50px;
   pointer-events: none;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 10s linear;
   }
 }
 
@@ -51,14 +51,15 @@
   text-align: center;
   color: beige;
   font-family:cursive;
-  font-size: 64px;
+  font-size: 48px;  
+  
 }
 
 ul.header li {
   display: inline;
   list-style-type: none;
   margin: 30px;
-  font-size: 24px;
+  font-size: 24px;  
   
 }
 
@@ -72,4 +73,12 @@ ul.header li {
 .header {
   list-style: none;
   display: inline;
+  
+  
+  
+}
+
+.content {
+  border-top: 10px solid rgb(19, 185, 197);
+  margin-top: 40px;
 }

@@ -27,7 +27,7 @@ function App() {
           <li><NavLink to="/battle">Battleship Outerspace</NavLink></li>
           <li><NavLink to="/phase">Phase10</NavLink></li>          
           <li><NavLink to="/shut">Shut the Box</NavLink></li>
-        </ul>
+        </ul>        
         <div className="content"> 
           <Routes>           
             <Route exact path="/" Component={Home}/>
