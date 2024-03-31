@@ -11,4 +11,4 @@
  #Using Visual Studio Code
  To recreate this project, clone the respsitory and run 'npm install' to get the node modules.
  Then run 'npm start' to the server.
- Go to 'localhost:8000/' to see the home page
+ Go to 'localhost:3000/' to see the home page
