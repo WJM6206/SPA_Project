@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   color: beige;
+  
 }
 
 .App-logo {
@@ -16,7 +17,7 @@
 }
 
 .App-header {
-  background-color: #1a3770;  
+  background-color: #1a3770;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -32,6 +33,8 @@
 .active {
   background-color: black;  
 }
+
+
 
 @keyframes App-logo-spin {
   from {
@@ -67,8 +70,15 @@ ul.header li {
   color: beige;
   border-radius: 20px;
   padding: 10pt;
+  
    
 }
+
+.container ul li a:not(.active) {
+  background-color:#274787;
+}
+
+
 
 .header {
   list-style: none;
